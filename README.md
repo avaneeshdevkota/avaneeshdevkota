@@ -1,4 +1,6 @@
-### Hi there 👋
+### **Hi there!**
+
+I'm Avaneesh, an aspiring Machine Learning Engineer with interests in Software Engineering and Mathematics. I am passionate about harnessing the potential of data-driven algorithms to encourage innovation and solve complex problems. Currently studying Computer Science and Mathematics @ <a href = "https://www.nyu.edu">NYU</a>.
 
 <!--
 **avaneeshdevkota/avaneeshdevkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
