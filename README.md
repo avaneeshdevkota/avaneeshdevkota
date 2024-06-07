@@ -1,6 +1,6 @@
 ### **Hi there!**
 
-I'm Avaneesh, an aspiring Machine Learning Engineer with interests in Software Engineering and Mathematics. I am passionate about harnessing the potential of data-driven algorithms to encourage innovation and solve complex problems. <br>
+I'm Avaneesh, an aspiring Software Engineer with interests in Machine Learning and Mathematics. I am passionate about harnessing the potential of data-driven algorithms to encourage innovation and solve complex problems. <br>
 
 Currently studying Computer Science and Mathematics @ <a href = "https://www.nyu.edu">NYU</a>.
 
